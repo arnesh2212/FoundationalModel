@@ -24,4 +24,4 @@ This Repository contains trained model to detect strong lensing images with no s
 - Cosine Annealing LR Scheduler
 
 
-### Trained Model weights are present in this Repositry
+### Trained Model weights are present in this Repository

@@ -11,6 +11,7 @@ This Repositry contains trained model to detect strong lensing images with no su
 | Resnet50 (Modified) |    0.9724   |  0.9894 |
 | MobileNetV3Large | 0.9883 |  0.9916  |
 
+![alt text](https://github.com/arnesh2212/DeepLense/blob/main/Task1%20-%20Classification/1.png)
 
 ## Some Data Augmentation Methods used -
 -     transforms.RandomHorizontalFlip(),

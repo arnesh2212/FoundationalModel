@@ -9,9 +9,9 @@ This Repository contains trained model to detect strong lensing images with no s
 |----------|:-------------:|------:|
 | MobileNetV2 |  0.9741 | 0.9999 |
 | Resnet50 (Modified) |    0.9724   |  0.9894 |
-| MobileNetV3Large | 0.9883 |  0.9916  |
+| MobileNetV3Large | 0.9983 |  0.9916  |
 
-![alt text](https://github.com/arnesh2212/DeepLense/blob/main/Task1%20-%20Classification/1.png)
+![alt text]([https://github.com/arnesh2212/DeepLense/blob/main/Task1%20-%20Classification/1.png](https://github.com/arnesh2212/DeepLense/blob/main/Task1%20-%20Classification/Screenshot_20240313_095651.png))
 
 ## Some Data Augmentation Methods used -
 -     transforms.RandomHorizontalFlip(),

@@ -2,7 +2,9 @@
 # Task 3A-  Image Super-resolution 
 
 
-This Repository contains trained model to upscale low-resolution strong lensing images using the provided high-resolution samples as ground truths. The models were trained using Pytorch for more flexibilty.
+This Repository contains the trained model to upscale low-resolution strong lensing images using the provided high-resolution samples as ground truths. The models were trained using Pytorch for more flexibility.
+The techniques ranged from using simple CNN-based scaling techniques to using zero-shot learning techniques.
+The future scope of this project is to use latent variable-based models and GAN-based architectures.
 
 ## Results
  

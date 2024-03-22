@@ -16,6 +16,7 @@ The future scope of this project is to use latent variable-based models and GAN-
 | ZSSRNet | 0.0018982704 | 33.650 | 0.8366753 |
 | WaveMixSR |  0.00044689313 | 34.2668 |  0.85012 |
 
+## The following are some example images in the dataset - 
 
 ![alt text](https://github.com/arnesh2212/DeepLense/blob/main/Task3B%20-%20RealiImages%20SuperResolution/eg1.png)
 ![alt text](https://github.com/arnesh2212/DeepLense/blob/main/Task3B%20-%20RealiImages%20SuperResolution/eg2.png)

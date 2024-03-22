@@ -15,6 +15,10 @@ This Repository contains trained model to upscale low-resolution strong lensing 
 | WaveMixSR |  0.00044689313 | 34.2668 |  0.85012 |
 
 
+![alt text](https://github.com/arnesh2212/DeepLense/blob/main/Task3B%20-%20RealiImages%20SuperResolution/eg1.png)
+![alt text](https://github.com/arnesh2212/DeepLense/blob/main/Task3B%20-%20RealiImages%20SuperResolution/eg2.png)
+
+## Some Techniques like gaussian blur and fastn1Denoising can also be used to improve further performance
 
 
 

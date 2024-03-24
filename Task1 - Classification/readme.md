@@ -9,7 +9,7 @@ This Repository contains trained model to detect strong lensing images with no s
 |----------|:-------------:|------:|
 | MobileNetV2 |  0.9741 | 0.9999 |
 | Resnet50 (Modified) |    0.9724   |  0.9894 |
-| MobileNetV3Large | 0.0.9883 |  0.9916  |
+| MobileNetV3Large | 0.9883 |  0.9916  |
 
 ## The best AUROC Score is 0.9983 and the best AUC Score is 0.9883 with above 98% accuracy
 

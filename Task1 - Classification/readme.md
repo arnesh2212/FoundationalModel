@@ -9,13 +9,13 @@ This Repository contains trained model to detect strong lensing images with no s
 |----------|:-------------:|------:|
 | MobileNetV2 |  0.9741 | 0.9999 |
 | Resnet50 (Modified) |    0.9724   |  0.9894 |
-| MobileNetV3Large | 0.9983 |  0.9916  |
+| MobileNetV3Large | 0.9978 |  0.9916  |
 
-## The best AUROC Score is 0.9983 with 88.3% accuracy
-Class 0 AUC: 0.997853
-Class 1 AUC: 0.996304
-Class 2 AUC: 0.999095
-Mean AUC: 0.9978
+## The best AUROC Score is 0.9978 with 88.3% accuracy
+### Class 0 AUC: 0.997853
+### Class 1 AUC: 0.996304
+### Class 2 AUC: 0.999095
+### Mean AUC: 0.9978
 
 For multiclass the metric is calculated by iteratively treating each class as the positive class and all other classes as the negative, which is referred to as the one-vs-rest approach. One-vs-one is currently not supported by this metric. By default the reported metric is then the average over all classes, but this behavior can be changed by setting the average argument.
 

@@ -15,7 +15,7 @@ This Repository contains trained model to detect strong lensing images with no s
 ### Class 0 AUC: 0.997853
 ### Class 1 AUC: 0.996304
 ### Class 2 AUC: 0.999095
-### Mean AUC: 0.9978
+### Mean AUC: 0.999
 
 For multiclass the metric is calculated by iteratively treating each class as the positive class and all other classes as the negative, which is referred to as the one-vs-rest approach. One-vs-one is currently not supported by this metric. By default the reported metric is then the average over all classes, but this behavior can be changed by setting the average argument.
 

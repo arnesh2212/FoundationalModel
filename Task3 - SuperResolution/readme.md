@@ -8,7 +8,7 @@ This Repository contains a trained model to upscale low-resolution strong lensin
  
 | Model   |     Val MSE      |  Val PSNR | Val SSIM |
 |----------|:-------------:|------:|------:|
-| DIPNet |  5.846322436030497e-05 | 42.364 | 0.9767 |
+| DIPNet |  5.846322436030497e-05 | 42.4 | 0.977 |
 
 ![alt text](https://github.com/arnesh2212/DeepLense/blob/main/Task3%20-%20SuperResolution/2.png)
 

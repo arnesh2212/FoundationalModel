@@ -11,10 +11,10 @@ The future scope of this project is to use latent variable-based models and GAN-
 | Model   |     Val MSE      |  Val PSNR | Val SSIM |
 |----------|:-------------:|------:|------:|
 | DIPNet |  0.0009894068 | 31.1011 | 0.6178 |
-| SRCNN |  0.0010093849 | 32.31 | 0.8210 |
-| SRResNet | 0.0008005101 | 33.715 |  0.81300 |
 | ZSSRNet | 0.0018982704 | 33.650 | 0.8366753 |
 | WaveMixSR |  0.00044689313 | 34.2668 |  0.85012 |
+| SRGAN (Gen Only) |   4.818466e-05 |44.1 |  0.974 |
+
 
 ## The following are some example images in the dataset - 
 

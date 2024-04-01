@@ -1,5 +1,5 @@
 
-# Task 3A-  Image Super-resolution 
+# Task 3B-  Image Super-resolution 
 
 
 This Repository contains the trained model to upscale low-resolution strong lensing images using the provided high-resolution samples as ground truths. The models were trained using Pytorch for more flexibility.

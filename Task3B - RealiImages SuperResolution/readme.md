@@ -14,8 +14,8 @@ The future scope of this project is to use latent variable-based models and GAN-
 | ZSSRNet | 0.0018982704 | 33.650 | 0.8366753 |
 | WaveMixSR |  0.00044689313 | 34.2668 |  0.85012 |
 
-Training on the full dataset gives a substantial jump in the performance due to the less quantity of the data
-| SRGAN (Gen Only) |   4.818466e-05 |44.1 |  0.974 |
+| SRGAN (Gen Only) |   4.818466e-05 |44.1 |  0.974 |Training on the full dataset gives a substantial jump in the performance due to the less quantity of the data
+
 
 
 ## The following are some example images in the dataset - 

@@ -17,7 +17,6 @@ The future scope of this project is to use latent variable-based models and GAN-
 Training on the full dataset gives a substantial jump in the performance due to the less amount of data
 | Model   |     Val MSE      |  Val PSNR | Val SSIM |
 |----------|:-------------:|------:|------:|
-
 | SRGAN (Gen Only) |   4.818466e-05 |44.1 |  0.974 |
 
 

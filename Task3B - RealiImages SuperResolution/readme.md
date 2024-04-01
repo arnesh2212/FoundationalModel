@@ -26,4 +26,4 @@ The future scope of this project is to use latent variable-based models and GAN-
 
 
 ### Trained Model weights are present in this Repository
-
+reference - https://github.com/leftthomas/SRGAN/tree/master

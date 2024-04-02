@@ -13,6 +13,8 @@ The future scope of this project is to use latent variable-based models and GAN-
 | DIPNet |  0.0009894068 | 31.1011 | 0.6178 |
 | ZSSRNet | 0.0018982704 | 33.650 | 0.8366753 |
 | WaveMixSR |  0.00044689313 | 34.2668 |  0.85012 |
+| SRGAN (Gen Only) |   0.0003597185 | 36.95 |  0.902 |
+
 
 Training on the full dataset gives a substantial jump in the performance due to the less amount of data
 | Model   |     Val MSE      |  Val PSNR | Val SSIM |

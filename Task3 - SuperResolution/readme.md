@@ -8,6 +8,8 @@ This Repository contains a trained model to upscale low-resolution strong lensin
  
 | Model   |     Val MSE      |  Val PSNR | Val SSIM |
 |----------|:-------------:|------:|------:|
+| SRCNN |  6.0781456e-05     | 42.3 | 0.974 |
+| EDSR |  5.9468906e-05     | 42.2 | 0.973 |
 | HAT |  5.9671598e-05     | 42 | 0.975 |
 | DIPNet |  5.846322436030497e-05 | 42.4 | 0.977 |
 

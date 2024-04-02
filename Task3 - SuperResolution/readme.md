@@ -10,7 +10,7 @@ This Repository contains a trained model to upscale low-resolution strong lensin
 |----------|:-------------:|------:|------:|
 | HAT |  5.9671598e-05     | 42 | 0.975 |
 | DIPNet |  5.846322436030497e-05 | 42.4 | 0.977 |
-
+https://github.com/arnesh2212/DeepLense/blob/main/Task3%20-%20SuperResolution/task3_HAT.ipynb
 ![alt text](https://github.com/arnesh2212/DeepLense/blob/main/Task3%20-%20SuperResolution/2.png)
 
 ### Trained Model weights are present in this Repository

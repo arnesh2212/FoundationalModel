@@ -21,8 +21,12 @@ Training on the full dataset gives a substantial jump in the performance due to 
 |----------|:-------------:|------:|------:|
 | SRGAN (Gen Only) |   4.818466e-05 |44.1 |  0.974 |
 
+## SRGan Training - https://github.com/arnesh2212/DeepLense/blob/main/Task3B%20-%20RealiImages%20SuperResolution/task3b_best%20.ipynb
+## Other models - https://github.com/arnesh2212/DeepLense/blob/main/Task3B%20-%20RealiImages%20SuperResolution/task3b.ipynb
+
 
 ## The following are some example images in the dataset - 
+
 
 ![alt text](https://github.com/arnesh2212/DeepLense/blob/main/Task3B%20-%20RealiImages%20SuperResolution/eg1.png)
 ![alt text](https://github.com/arnesh2212/DeepLense/blob/main/Task3B%20-%20RealiImages%20SuperResolution/eg2.png)

@@ -19,7 +19,6 @@ This Repository contains trained model to detect strong lensing images with no s
 
 For multiclass the metric is calculated by iteratively treating each class as the positive class and all other classes as the negative, which is referred to as the one-vs-rest approach. One-vs-one is currently not supported by this metric. By default the reported metric is then the average over all classes, but this behavior can be changed by setting the average argument.
 
-## Task1 - https://github.com/arnesh2212/DeepLense/blob/main/Task1%20-%20Classification/task1.ipynb
 ![alt text](https://github.com/arnesh2212/DeepLense/blob/main/Task1/ROC.png)
 
 ## Trained using multiple data augmentation techniques

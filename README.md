@@ -1,7 +1,7 @@
 
 # GSOC 2024 - DeepLense
 
-This Repository contains the solutions for the tasks for the project - Superresolution for Strong Gravitational Lensing
+This Repository contains the solutions for the tasks DeepLense
 
 ## This repository contains solutions for Task 1, 3A, 3B, 4, 6A and 6B
 

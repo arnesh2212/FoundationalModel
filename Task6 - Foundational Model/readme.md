@@ -24,5 +24,5 @@
 
 # Resuls of Super Resolution using MAE PreTrained Encoder from above and the Conv2DTranspose + Upsampling Blocks to convert the latent vector to the highr res image.
 ### MSE: 0.000090 - PSNR: 40.025167 - SSIM: 0.966675
-
+### Models - https://drive.google.com/drive/folders/1J8nO6pwrbowHBE_RxFcK_r4Z9L8Lmid6?usp=sharing
 

@@ -22,7 +22,7 @@ For multiclass the metric is calculated by iteratively treating each class as th
 ![alt text](https://github.com/arnesh2212/DeepLense/blob/main/Task1/ROC.png)
 
 ## Trained using multiple data augmentation techniques
-
+### Models - https://drive.google.com/drive/folders/1pYWGKusHPyfjtfSp1ixWqsEdfWqoirzK?usp=sharing 
 
 ## Other methods
 - Reduction of learning rate on Plateau

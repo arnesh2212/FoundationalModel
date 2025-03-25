@@ -1,5 +1,5 @@
 
-# GSOC 2024 - DeepLense
+# GSOC 2025 - DeepLense
 
 This Repository contains the solutions for the tasks DeepLense
 
